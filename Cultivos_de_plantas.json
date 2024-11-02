@@ -1,0 +1,96 @@
+{
+    "__v": 1,
+    "description": "Base de conocimiento de Sistema experto para cultivos de plantas frutales en Tierra del Fuego",
+    "entries": [
+      {
+        "name": "Usar Barreras",
+        "description": "El clima en Tierra del Fuego puede variar ampliamente. Es importante determinar si el vientoes muy fuerte es recomendable colocar barreras de proteccion naturales o artificiales.",
+        "props": [
+          "Clima adecuado",
+          "Frutal resistente",
+          "Tiene Proteccion contra el Viento",
+          "Hay viento Fuerte"
+         ]
+      },   
+      {
+        "name": "Solucion: Usar barrera para proteccion",
+        "description": "Es importante determinar si el viento es muy fuerte es recomendable colocar barreras de proteccion naturales o artificiales.",
+        "props": [
+          "Clima adecuado",
+          "Frutal resistente"
+          ]
+      },       
+      {
+        "name": "No Plantar- frutal no resistente",
+        "description": "Si el frutal no es resistente, no es recomendable plantarlo.",
+        "props": [
+          "Clima adecuado"
+        ]
+      },  
+      {
+        "name": "Control de plagas",
+        "description": "Si hay plagas presentes, es necesario aplicar controles biológicos o químicos.",
+        "props": [
+          "Clima adecuado",
+          "Frutal resistente",
+          "Tiene Proteccion contra el Viento",
+          "Hay disponibilidad de agua",
+          "Tiene Tecnicas de Riego",
+          "El suelo es adecuado",
+          "Hay plagas presentes"
+        ]
+      },   
+      {    
+        "name": "Proceder al Cultivo",
+        "description": "Si no hay plagas presentes, se puede proceder con el cultivo.",
+        "props": [  
+          "Clima adecuado",
+          "Frutal resistente",
+          "Tiene Proteccion contra el Viento",
+          "Hay disponibilidad de agua",
+          "Tiene Tecnicas de Riego",
+          "El suelo es adecuado"
+         
+      ]
+       },
+       {
+        "name":"Solucion: Mejore el suelo",
+        "description": "Si el suelo es pobre o no tiene buen drenaje, es necesario mejorar su calidad,mejorar suelo con compost y drenaje.",
+        "props": [
+          "Clima adecuado",
+          "Frutal resistente",
+          "Tiene Proteccion contra el Viento",
+          "Hay disponibilidad de agua",
+          "Tiene Tecnicas de Riego"
+        ]
+      },
+      {  
+        "name": "Solucion: Mejorar Captacion de agua",
+        "description": "La disponibilidad de agua es un factor crucial en Tierra del Fuego. Se debe verificar si hay suficiente agua para el riego.",
+        "props": [
+          "Clima adecuado",
+          "Frutal resistente",
+          "Tiene Proteccion contra el Viento"
+        
+          ]
+      },
+      {
+        "name": "Solucion: Mejorar el sistema de Riego",
+        "description": "Si las técnicas de riego no son eficientes, es necesario mejorarlas para optimizar el uso del agua,mejorar sistema de riego.",
+        "props": [
+          "Clima adecuado",
+          "Frutal resistente",
+          "Tiene Proteccion contra el Viento",
+          "Hay disponibilidad de agua"
+        ]
+     },
+       {
+        "name": "No Plantar",
+        "description": "Si el clima no es adecuado para el frutal, no es recomendable plantarlo.",
+        "props": [
+        ]
+      }
+        
+    ]
+  }
+  

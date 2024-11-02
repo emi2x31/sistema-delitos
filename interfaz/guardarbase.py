@@ -1,6 +1,7 @@
 import tkinter as tk
 import acciones
 
+
 class GuardarBase(tk.Frame):
 
     def __init__(self):

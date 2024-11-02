@@ -1,0 +1,125 @@
+{
+  "__v": 1,
+  "description": "Base de conocimiento de atención al usuario en informática",
+  "entries": [
+    {
+      "name": "Problema de conectividad a internet",
+      "description": "Los usuarios no pueden conectarse a internet. Esto puede deberse a problemas con el hardware, el proveedor de internet, la configuración de red o fallos en el dispositivo del usuario.",
+      "props": [
+        "Hay problemas de conexión",
+        "El cableado está correctamente conectado",
+        "La conexión con el prov.de internet está funcionando",
+        "La configuración de red está bien",
+        "Se ha reiniciado el router"
+      ]
+    },
+    {
+      "name": "Fallo de software",
+      "description": "El software utilizado por el usuario presenta fallos o no funciona correctamente. Esto puede deberse a incompatibilidad, falta de actualizaciones o errores internos del programa.",
+      "props": [
+        "Probo con otro dispositivo similar",
+        "Verifico las actualizaciones",
+        "Reinstalo software"
+        
+      ]
+    },
+    {
+      "name": "Fallo en hardware",
+      "description": "Un componente del hardware (monitor, teclado, mouse, etc.) no funciona correctamente o está dañado, lo que impide que el usuario trabaje.",
+      "props": [
+        "Probo con otro dispositivo similar",
+        "Actualizo controladores",
+        "Solicitar revisión técnica"
+      ]
+    },
+    {
+      "name": "Acceso denegado",
+      "description": "El usuario no tiene los permisos necesarios para acceder a ciertas aplicaciones o sistemas, lo que afecta su productividad.",
+      "props": [
+        "Verifico permisos de usuario",
+        "Reviso las politicas de Acceso",
+        "Solicito aumento de privilegios"
+      ]
+    },
+    {
+      "name": "Solucion: verifique los permisos de usuario",
+      "description": "El usuario no tiene los permisos necesarios verifique los permisos",
+      "props": [     
+      ]
+    },
+    {
+      "name": "Solucion: revise las politicas de acceso",
+      "description": "El usuario no tiene acceso revise las politicas",
+      "props": [
+        "Verifico permisos de usuario"
+      ]
+    },
+    {
+      "name": "Solucion: Solicite aumento de privilegios",
+      "description": "El usuario necesita aumento de privilegios",
+      "props": [
+        "Verifico permisos de usuario",
+        "Reviso las politicas de Acceso"
+      ]
+    },
+    {
+      "name": "Solución: Revise el cableado.",
+      "description": "Hay problemas de conectividad, esto se debe al mal cableado o problemas con los cables.",
+      "props": [
+        "Hay problemas de conexión"
+      ]
+    },
+    {
+      "name": "Solución: Verificar conexión con el proveedor.",
+      "description": "Hay problemas de conectividad, esto se debe a la coneccion con el proveedor, comuniquese.",
+      "props": [
+        "Hay problemas de conexión",
+        "El cableado está correctamente conectado"
+     ]
+    },
+    {
+      "name": "Solución: Comprobar configuración de red.",
+      "description": "Hay problemas de conectividad, compruebe la configuracion de la red",
+      "props": [
+        "Hay problemas de conexión",
+        "El cableado está correctamente conectado",
+        "La conexión con el prov.de internet está funcionando"
+               
+     ]
+    },
+    {
+      "name": "Solución: Reiniciar el router.",
+      "description": "Hay problemas de conectividad, reinicie el router",
+      "props": [
+        "Hay problemas de conexión",
+        "El cableado está correctamente conectado",
+        "La conexión con el prov.de internet está funcionando",
+        "La configuración de red está bien"
+     ]
+    },
+    {
+      "name": "Soluci´0n: Verifique las actualizaciones",
+      "description": "Hay problemas con el dispositivo por favor compruebe las actualizaciones",
+      "props": [
+        "Probo con otro dispositivo similar"        
+     ]
+    },
+    {
+      "name": "Solución: Reinstale nuevamente el Software",
+      "description": "Hay problemas con el dispositivo por favor reinstale nuevamente el Software",
+      "props": [
+        "Probo con otro dispositivo similar",
+        "Verifico las actualizaciones"
+                     
+     ]
+    },
+    {
+      "name": "Solución: Actualice los controladores",
+      "description": "Hay problemas con el dispositivo por favor reinstale los controladores",
+      "props": [
+        "Probo con otro dispositivo similar"
+                     
+     ]
+    }
+  ]
+}
